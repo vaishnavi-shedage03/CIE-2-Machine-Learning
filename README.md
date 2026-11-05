@@ -26,6 +26,11 @@ Students Performance in Exams dataset from Kaggle.
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- 
+## Faculty Reference
+
+Faculty Guide: Princy Verma 
+GitHub Profile: https://github.com/Princy2129
 
 ## Output
 Prepared dataset: `Prepared_StudentsPerformance.csv`
